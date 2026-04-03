@@ -249,7 +249,7 @@ export default function App() {
                             addLog('Sent: set_route (6 ROS2 PoseStamped waypoints)');
                         }}
                     >
-                        📍 Send Route (6 Waypoints)
+                        📍 Send the route to the academy gate
                     </button>
                 </section>
 
